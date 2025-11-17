@@ -45,8 +45,8 @@ Il progetto include un `Makefile` per una compilazione semplice.
 
 1.  Clona il repository:
 ```
-git clone https://github.com/TUO-USERNAME/TUO-REPO.git
-cd TUO-REPO
+git clone https://github.com/sandi-russo/finalterm-553675.git
+cd finalterm-553675
 ```
 
 2.  Compila il progetto:
